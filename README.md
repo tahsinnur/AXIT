@@ -1,2 +1,2 @@
 # AXIT
-Coverting PSD to HTML using Bootstrap
+Converting PSD to HTML using Bootstrap
